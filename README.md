@@ -4,7 +4,7 @@ Author: Santiago Norena
 
 A blog of my experience touring the USA by living on the road and exploring new places.
 ------------------------------------------------------------------------------------------------
-=> This repository contains all the code for creating a portfolio places visited using the Django web framework.
+=> This repository contains all the code for creating a portfolio of places visited using the Django web framework.
 
 
 Requires:
