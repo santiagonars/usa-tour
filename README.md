@@ -1,4 +1,4 @@
-# usa-tour
+# usa-tour django application
 
 Author: Santiago Norena
 
