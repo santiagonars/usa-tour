@@ -1,6 +1,6 @@
 # USA Tour Django Application
 
-# folder name: usa-tour
+## folder name: usa-tour
 
 Author: Santiago Norena
 
